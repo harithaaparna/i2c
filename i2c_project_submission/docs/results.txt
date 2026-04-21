@@ -1,0 +1,27 @@
+I2C Master Project Results
+
+1. RTL Design:
+- I2C Master implemented in Verilog
+
+2. Simulation:
+- Verified using ModelSim
+- Signals observed: SDA, SCL, START, STOP, ACK
+- Successful byte transmission over I2C bus
+
+3. Synthesis:
+- Completed using Xilinx ISE
+- No errors
+
+4. Implementation:
+- Mapping, Placement, Routing completed
+- No errors
+
+5. Timing:
+- Achieved stable clock generation for I2C communication
+- Timing constraints satisfied
+
+6. Output:
+- Programming file (.bit) generated successfully
+
+7. Additional:
+- RTL-to-GDS flow explored using OpenLane (Sky130 PDK)

@@ -1,0 +1,23 @@
+# Reading C:/Modeltech_5.5a/win32/../tcl/vsim/pref.tcl 
+# do tb_i2c.fdo 
+# Model Technology ModelSim SE vlog 5.5a Compiler 2001.04 Apr  5 2001
+# -- Compiling module i2c
+# Top level modules:
+# 	i2c
+# Model Technology ModelSim SE vlog 5.5a Compiler 2001.04 Apr  5 2001
+# -- Compiling module tb_i2c
+# Top level modules:
+# 	tb_i2c
+# Model Technology ModelSim SE vlog 5.5a Compiler 2001.04 Apr  5 2001
+# -- Compiling module glbl
+# Top level modules:
+# 	glbl
+# vsim -lib work -t 1ps -L xilinxcorelib_ver -L unisims_ver tb_i2c glbl 
+# Loading work.tb_i2c
+# ERROR: Could not open library xilinxcorelib_ver at xilinxcorelib_ver: No such file or directory
+# ERROR: Could not open library unisims_ver at unisims_ver: No such file or directory
+# Loading work.i2c
+# Loading work.glbl
+# .wave
+# .structure
+# .signals
